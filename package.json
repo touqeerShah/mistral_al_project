@@ -1,0 +1,17 @@
+{
+  "name": "mistral_al_project",
+  "version": "1.0.0",
+  "description": "This small learning project to work with mistral to create my own llm model and test important feature provide by mistrial",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.19",
+    "langchain": "^0.2.10",
+    "openai": "^4.52.7"
+  }
+}

@@ -153,5 +153,5 @@ Once retrieval is done, we create a prompt and generate output. However, sometim
 Example
 [helper from  stackoverflow](https://stackoverflow.com/questions/78697238/error-in-ollama-functions-js-errorfailed-to-parse-a-function-call-from-this)
 [langchain example](https://js.langchain.com/v0.1/docs/integrations/chat/ollama_functions/)
-
+[more llm Example](https://willschenk.com/labnotes/2024/programmatically_interacting_with_llms/)
 ![ Flow of agent ](./public/flow.png)
